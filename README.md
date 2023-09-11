@@ -1,16 +1,14 @@
-# translator
+# ![EnglishTranslator](https://github.com/MaherWasel/English-Translator-Flutter/assets/132270545/4f6b09f7-05a6-43ec-a7ce-3c9ca40f0bde)
+# EnglishTranslator
+<table>
+<tr>
+<td>
+  English Translator is an app that allows users to translate English sentences into 109 different
+  language by entering the sentence and the country's language key 
+</td>
+</tr>
+</table>
 
-A new Flutter project.
+## Built with 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/) 

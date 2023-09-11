@@ -1,4 +1,4 @@
-# ![EnglishTranslator](https://github.com/MaherWasel/English-Translator-Flutter/assets/132270545/4f6b09f7-05a6-43ec-a7ce-3c9ca40f0bde)
+# ![EnglishTranslator](https://github.com/MaherWasel/English-Translator-Flutter/assets/132270545/078b78f4-dac5-43da-971f-eff01dc3e97d)
 # EnglishTranslator
 <table>
 <tr>

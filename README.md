@@ -4,7 +4,7 @@
 <tr>
 <td>
   English Translator is an app that allows users to translate English sentences into 109 different
-  language by entering the sentence and the country's language key 
+  language by clicking the icon logo after entering the sentence and the country's language key 
 </td>
 </tr>
 </table>
